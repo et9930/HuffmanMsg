@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Communication">
+    <Position X="12.25" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAEAEAAAAwAAAAAAAAAAAAAJEAAA=</HashCode>
+      <FileName>Communication.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRCCheck">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABACAAAAAA=</HashCode>
+      <FileName>CRCCheck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Huffman">
+    <Position X="6" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAARAAQEAQAFCEAAAAEBAAAEAAAAAACAGgCECAAQ2A=</HashCode>
+      <FileName>Huffman.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuffmanChooseDlg">
+    <Position X="8.75" Y="2.25" Width="2.75" />
+    <NestedTypes>
+      <Enum Name="HuffmanChooseDlg::__unnamed_enum_0612_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HuffmanChooseDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACAIAEACAAAAAAAABAAAIAAAAAAIAQAAAACAAAQAAA=</HashCode>
+      <FileName>HuffmanChooseDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHuffmanMsgApp">
+    <Position X="9.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>HuffmanMsg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuffmanReceiveDlg">
+    <Position X="11.75" Y="2.25" Width="2.25" />
+    <NestedTypes>
+      <Enum Name="HuffmanReceiveDlg::__unnamed_enum_0616_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HuffmanReceiveDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EgCAAAEAAAAAAAAAABAAAEAAAAABAAQAAAAAAAAQAAA=</HashCode>
+      <FileName>HuffmanReceiveDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HuffmanSendDlg">
+    <Position X="6" Y="2.25" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="HuffmanSendDlg::__unnamed_enum_0618_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>HuffmanSendDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAGAAAUAAAJgUAAAABAAEEEAAAAAAAQAgAQAAAAQCAA=</HashCode>
+      <FileName>HuffmanSendDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tagFileList" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAACAABAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>stdafx.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagHuffmanNode" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAABAAAAAAAAAADAAABAAAAABAAAAAAA=</HashCode>
+      <FileName>stdafx.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tagHuffmanCodeNode" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdafx.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="FileList" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdafx.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="HuffmanNode" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdafx.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="HuffmanTree" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdafx.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="HuffmanCodeNode" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdafx.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="HuffmanCodeList" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>stdafx.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
